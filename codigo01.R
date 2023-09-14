@@ -1,4 +1,3 @@
-x = c(2,7,9,10)
-mean(x)
-max(x)
-min(x)
+x1 = c(2,7,9,10)
+mean(x1)
+sd(x1)
